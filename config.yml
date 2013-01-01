@@ -1,9 +1,9 @@
 ---
-# Usage: http://ruhoh.com/usage/configure/ 
+# Usage: http://ruhoh.com/usage/configure/
 
 RuhohSpec: '1.0'
-theme : twitter
-production_url : http://sample.com
+theme : hooligan
+production_url : http://kaicurry.com
 
 posts:
   permalink: /:categories/:title/
